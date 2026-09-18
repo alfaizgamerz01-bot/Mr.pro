@@ -1,1 +1,12 @@
-
+{
+  "afk_settings": {
+    "enabled": true,
+    "bot_name": "mr pro",
+    "anti_afk": true,
+    "anti_afk_interval": 30000,
+    "auto_reconnect": true,
+    "reconnect_delay": 10,
+    "actions": ["swingArm", "lookAround", "sneak"],
+    "chat_message_on_join": "Hi Bot"
+  }
+}
